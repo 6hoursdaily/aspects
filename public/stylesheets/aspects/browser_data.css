@@ -1,0 +1,43 @@
+.browserdata-new-menu-icon
+{
+    background-image:url(/images/common/business/large/document-new-6.png) !important;
+}
+
+.browserdata-delete-menu-icon
+{
+    background-image:url(/images/common/business/small/document-close-4.png) !important;
+}
+
+.browserdata-view-menu-icon
+{
+    background-image:url(/images/common/business/small/document-preview.png) !important;
+}
+.browserdata-edit-menu-icon
+{
+    background-image:url(/images/common/business/small/document-edit.png) !important;
+}
+
+.browserdata-pdf-menu-icon
+{
+    background-image:url(/images/common/files/small/acrobat.png) !important;
+}
+
+.browserdata-xml-menu-icon
+{
+    background-image:url(/images/common/files/small/text-xml.png) !important;
+}
+
+.browserdata-spreadsheet-menu-icon
+{
+    background-image:url(/images/common/files/large/application-vnd.oasis.opendocument.spreadsheet.png) !important;
+}
+
+.browserdata-csv-menu-icon
+{
+    background-image:url(/images/common/files/small/text-csv.png) !important;
+}
+
+.browserdata-search-menu-icon
+{
+    background-image:url(/images/common/system/small/edit-find-2.png ) !important;
+}

@@ -1,0 +1,41 @@
+embed_assets: on
+# package_assets: on
+# gzip_assets: on
+
+javascripts:
+  common:
+    - public/javascripts/extjs/ext-all.js
+    - public/javascripts/yui/yui/yui-min.js
+    - public/javascripts/yui/event/event-min.js
+    - public/javascripts/yui/event-custom/event-custom-min.js
+  aspects:
+    - public/javascripts/aspects/Aspects.js
+    - public/javascripts/aspects/Aspects.Events.js
+    - public/javascripts/aspects/Aspects.Core.js
+    - public/javascripts/aspects/Aspects.UI.js
+    - public/javascripts/aspects/Aspects.UI.History.js
+    - public/javascripts/aspects/Aspects.UI.Tabs.js
+    - public/javascripts/aspects/Aspects.UI.ToolBar.js
+    - public/javascripts/aspects/Aspects.UI.BrowserData.js
+  main:
+    - public/javascripts/aspects/Aspects.UI.Main.js
+    - public/javascripts/aspects/Aspects.UI.Main.Tabs.js
+    - public/javascripts/aspects/Aspects.UI.Main.WorkSpace.js
+    - public/javascripts/aspects/Aspects.Main.js
+    - public/javascripts/aspects/main.js
+  financials:
+    - public/javascripts/aspects/Aspects.Financials.js
+    - public/javascripts/aspects/Aspects.UI.Financials.js
+stylesheets:
+  common:
+    - public/javascripts/yui/cssreset/reset.css
+    - public/stylesheets/jquery-ui/ui-lightness/ui-lightness.css
+    - public/javascripts/extjs/resources/css/ext-all.css
+  aspects:
+    - public/stylesheets/aspects/browser_data.css
+  financials:
+    - public/stylesheets/aspects/financials.css
+  main:
+    - public/stylesheets/aspects/main.css
+
+
