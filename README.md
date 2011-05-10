@@ -1,0 +1,3 @@
+# Aspects
+
+Aspects is a ERP Open Source project
