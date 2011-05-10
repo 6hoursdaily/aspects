@@ -1,0 +1,8 @@
+glob:*.log
+glob:*.lock
+glob:*.sqlite3
+glob:log/*.log
+glob:.idea/
+glob:.git/
+glob:.directory
+glob:.bundle/
