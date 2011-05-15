@@ -6,3 +6,4 @@ glob:.idea/
 glob:.git/
 glob:.directory
 glob:.bundle/
+glob:*.pid

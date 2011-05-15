@@ -6,3 +6,4 @@ log/*.log
 .hg/
 .directory
 .bundle/
+*.pid
